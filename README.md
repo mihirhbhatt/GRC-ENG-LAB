@@ -1,8 +1,8 @@
-# GRC Playground
+# GRC ENG LAB
 
 **The sandbox for GRC pros to break things, test ideas, and learn by doing.**
 
-Welcome to the GRC Playground! A space built for GRC folks who are tired of reading 500-page PDFs and want to actually do the thing. No more theory with no application. No more guessing how policy as code works. Just hands-on labs designed to teach you how to turn frameworks into something real.
+Welcome to the GRC ENG LAB! A space built for GRC folks who are tired of reading 500-page PDFs and want to actually do the thing. No more theory with no application. No more guessing how policy as code works. Just hands-on labs designed to teach you how to turn frameworks into something real.
 
 This isn't your typical GRC content. We don’t do boring here.
 
